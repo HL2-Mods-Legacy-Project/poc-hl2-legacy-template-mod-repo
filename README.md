@@ -1,29 +1,33 @@
 # README
 
+## About The Project
+
 Legacy HL2 mod proof of concept (POC) - only for development purposes.
+
+## Supported Platforms
+
+- Windows 11 (64-bit)
+
+## Mod Installation
+
+See [mod installation](https://github.com/HL2-Mods-Legacy-Project/poc-hl2-legacy-docs/blob/master/docs/mod-repositories/mod-installation.md).
 
 ## Development
 
-### Cloning the repository
+See [development](https://github.com/HL2-Mods-Legacy-Project/poc-hl2-legacy-docs/blob/master/docs/mod-repositories/development.md).
 
-```text
-git clone --recurse-submodules https://github.com/HL2-Mods-Legacy-Project/<mod repo>.git
-```
+## Contributing
 
-### Building the installer
+See [contribution guidelines](CONTRIBUTING.md).
 
-Open PowerShell and do the following:
+## License
 
-```powershell
-cd scripts
-.\build_all.ps1
-```
+See [license](LICENSE).
 
-### Updating the mod installer submodule
+## Acknowledgments
 
-```text
-git submodule update --recursive --remote
-git add .
-git commit -m "Update mod-installer"
-git push
-```
+Thanks to the following resources for templates, guides and or general structural inspiration.
+
+- [Best README Template](https://github.com/othneildrew/Best-README-Template)
+- [Keep a Changelog](https://keepachangelog.com/)
+- [ValveSoftware/halflife's code of conduct](https://github.com/ValveSoftware/halflife?tab=readme-ov-file#conduct)
