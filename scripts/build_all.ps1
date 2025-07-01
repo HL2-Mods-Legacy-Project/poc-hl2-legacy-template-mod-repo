@@ -1,4 +1,4 @@
-& "$PSScriptRoot\..\mod-installer\build_all.ps1" `
+& "$PSScriptRoot\..\gitmodules\mod-installer\build_all.ps1" `
   -Version "<version>" `
   -PreReleaseVersion "beta.1" `
   -OutputFilePrefix "<output file prefix>" `
