@@ -6,7 +6,7 @@ Legacy HL2 mod proof of concept (POC) - only for development purposes.
 
 ## Supported Platforms
 
-- Windows 11 (64-bit)
+See [supported platforms](https://github.com/HL2-Mods-Legacy-Project/poc-hl2-legacy-docs/blob/master/docs/mod-repositories/mod-installation.md#supported-platforms).
 
 ## Mod Installation
 
